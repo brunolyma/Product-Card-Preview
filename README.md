@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-Here I put into practice a little of my knowledge in FlexBox, choosing to develop from the mobile first concept, always aiming for a responsive layout. I used background-image to change image after breakpoint to large screen (code below).
+Here I put into practice a little of my knowledge in FlexBox, choosing to develop from the mobile first concept, always aiming for a responsive layout. I have used background-image to change image breakpoint to large screen, but changed to the source media tag after a great feedback (code below).
 I also tried to put the dimensions as close as possible to the design of the challenge, even though I don't have access to the Figma or Sketch file.
 
 ```html
